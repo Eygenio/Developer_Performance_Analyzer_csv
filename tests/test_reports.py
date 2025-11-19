@@ -12,5 +12,5 @@ def test_performance_report_and_format():
     table = format_performance_table(data)
     # Проверяем, что форматирование содержит две цифры после запятой и позиции
     assert "Backend" in table
-    assert "4.75" in table  # backend average
-    assert "4.20" in table  # qa formatted as 4.20
+    assert "4.75" in table
+    assert "4.20" in table
