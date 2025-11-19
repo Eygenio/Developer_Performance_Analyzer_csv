@@ -29,7 +29,7 @@ class ReportRegistry:
         try:
             return cls._registry[name]
         except KeyError as exc:
-            raise UnknownReportError(f"Unknown report: {name}") from exc
+            raise UnknownReportError(f"Неизвестный отчет: {name}") from exc
 
     @classmethod
     def available_reports(cls):
