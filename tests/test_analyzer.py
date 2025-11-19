@@ -13,7 +13,6 @@ def test_compute_average_per_position():
         make_dev("C", "Frontend", 4.0),
     ]
     res = average_performance_by_position(devs)
-    # ожидаем две строки, Backend первым (4.75), Frontend вторым (4.0)
     assert res[0][0] == "Backend"
     assert res[0][1] == 4.75
     assert res[1][0] == "Frontend"
