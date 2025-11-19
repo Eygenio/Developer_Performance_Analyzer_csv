@@ -61,7 +61,9 @@ python -m devreport.cli --files data.csv --report performance --show-bad-rows
 
 ## 📊 Пример отчёта
 
-
+![Image alt](https://github.com/Eygenio/Developer_Performance_Analyzer_csv/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-11-19%2004-39-56.png)
+![Image alt](https://github.com/Eygenio/Developer_Performance_Analyzer_csv/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-11-19%2004-38-54.png)
+![Image alt](https://github.com/Eygenio/Developer_Performance_Analyzer_csv/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-11-19%2004-39-16.png)
 
 ## 🧪 Запуск тестов
 
@@ -70,3 +72,5 @@ pytest -v
 ```
 
 ------------------------------------------------------------------------
+## 📊 Пример отчёта
+![Image alt](https://github.com/Eygenio/Developer_Performance_Analyzer_csv/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-11-19%2004-38-17.png)
